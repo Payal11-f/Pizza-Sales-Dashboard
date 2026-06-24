@@ -1,6 +1,6 @@
 # Pizza-Sales-Analysis
 
-# BUSISEST DAYS & TIME  AND SALES PERMORMANCE -->
+## BUSISEST DAYS & TIME  AND SALES PERMORMANCE -->
 <img width="1121" height="631" alt="Screenshot 2026-06-18 161722" src="https://github.com/user-attachments/assets/77781df8-0051-482a-9b17-1f6ea5d1fac0" />
 
 ## BEST AND WORST SELLERS -->
